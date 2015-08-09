@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/M12Editor.iml" filepath="$PROJECT_DIR$/M12Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RosterDumper/RosterDumper.iml" filepath="$PROJECT_DIR$/RosterDumper/RosterDumper.iml" />
     </modules>
   </component>
 </project>
